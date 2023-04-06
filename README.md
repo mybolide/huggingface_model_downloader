@@ -11,7 +11,7 @@
 3. 安装依赖：
    pip install -r requirements.txt
 4. 下载模型：
-   python huggingface_model_downloader.py <model_name>
+   python download_progress.py <model_name>
 
 其中，`<model_name>` 是模型的名称，例如 `THUDM/chatglm-6b`。
 
